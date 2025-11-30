@@ -12,6 +12,6 @@ public:
             count += freq[i];    // count distinct chars
         }
 
-        return count;            // max substrings = distinct chars
+        return count;  // max substrings = distinct chars
     }
 };
