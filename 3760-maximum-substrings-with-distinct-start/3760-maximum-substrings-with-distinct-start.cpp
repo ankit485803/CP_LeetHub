@@ -1,12 +1,17 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_set<char> used;
+        int freq[26] = {0};
 
         for (char c : s) {
-            used.insert(c);
+            freq[c - 'a'] = 1;   // mark character as present
         }
 
-        return used.size();
+        int count = 0;
+        for (int i = 0; i < 26; i++) {
+            count += freq[i];    // count distinct chars
+        }
+
+        return count;            // max substrings = distinct chars
     }
 };
