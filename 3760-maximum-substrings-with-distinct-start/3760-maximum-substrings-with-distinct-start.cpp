@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxDistinct(string s) {
+    int maxDistinct(string s) {  //tc=O(n), sc=O(1)
         int freq[26] = {0};
 
         for (char c : s) {
