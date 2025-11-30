@@ -1,6 +1,6 @@
 class Solution {
 public:
-    double average(vector<int>& salary) {
+    double average(vector<int>& salary) {  //tc=O(n logN), sc=O(1)
         int n = salary.size();
 
         sort(salary.begin(), salary.end());
