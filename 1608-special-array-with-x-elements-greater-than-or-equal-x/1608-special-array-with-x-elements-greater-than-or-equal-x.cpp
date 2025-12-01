@@ -12,7 +12,6 @@ public:
                     count++;
                 }
             }
-            
             // If count is exactly x, return x
             if (count == x) {
                 return x;
