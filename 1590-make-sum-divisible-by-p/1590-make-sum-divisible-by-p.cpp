@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minSubarray(vector<int>& nums, int p) {
+    int minSubarray(vector<int>& nums, int p) {  //tc=O(n)=sc
         int n = nums.size();
         long long sum = 0;
 
