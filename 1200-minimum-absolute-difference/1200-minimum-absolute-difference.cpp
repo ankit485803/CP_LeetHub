@@ -1,6 +1,3 @@
-#include <algorithm>
-
-
 class Solution {
 public:
     vector<vector<int>> minimumAbsDifference(vector<int>& arr) {  //tc=O(n logN), sc=O(n) due ans vector
