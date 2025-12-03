@@ -2,7 +2,7 @@ class Solution {
 public:
     static const int MOD = 1e9 + 7;
 
-    int countTrapezoids(vector<vector<int>>& points) {
+    int countTrapezoids(vector<vector<int>>& points) {  //tc=O(n)=sc
         unordered_map<int, long long> mp;
 
         // Count points per y-level
