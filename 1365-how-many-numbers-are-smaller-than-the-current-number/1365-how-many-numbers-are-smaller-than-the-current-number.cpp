@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
+    vector<int> smallerNumbersThanCurrent(vector<int>& nums) {  //tc=O(n*n), sc=O(1)
         int n = nums.size();
         vector<int> ans(n);  // allocate size n
 
