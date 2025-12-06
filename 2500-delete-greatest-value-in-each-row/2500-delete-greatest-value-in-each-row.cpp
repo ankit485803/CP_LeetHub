@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int deleteGreatestValue(vector<vector<int>>& grid) {  //tc=O(m * n), sc=O(1)
+    int deleteGreatestValue(vector<vector<int>>& grid) {  //tc=O(m * n),sc=O(1)
         int m = grid.size();
         int n = grid[0].size();
         int total = 0;
