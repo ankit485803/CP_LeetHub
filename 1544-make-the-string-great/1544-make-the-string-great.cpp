@@ -3,7 +3,7 @@
 class Solution {
 public:
     string makeGood(string s) {
-        stack<char> stk;
+        stack<char> stk;  //tc=O(n)=sc
         
         for (char c : s) {
             if (!stk.empty() && abs(stk.top() - c) == 32) {
