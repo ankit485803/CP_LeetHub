@@ -1,17 +1,11 @@
 class Solution {
 public:
     int countOdds(int low, int high) {
-        int count = 0;
-        int i = 0; // as a index
-
-        i = low;
-        while(i <= high) {
-            if(i % 2 == 1) {  //ODD conditon remainer 1
-                count++;
-            }
-            i++;
-        }
-
-        return count;
+        // If both low and high are even.
+        if (low % 2 == 0 && high % 2 == 0)
+            return (high - low) / 2;
+        
+        // Otherwise, at least one is odd → add one more.
+        return (high - low) / 2 + 1;
     }
 };
