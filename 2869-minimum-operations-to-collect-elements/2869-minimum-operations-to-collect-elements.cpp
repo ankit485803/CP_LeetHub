@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minOperations(std::vector<int>& nums, int k) {  //tc=O(n), sc=O(k)
+    int minOperations(vector<int>& nums, int k) {  //tc=O(n), sc=O(k)
         int n = nums.size(); 
 
         vector<bool> seen(k, false);  // Boolean array to track collected elements
