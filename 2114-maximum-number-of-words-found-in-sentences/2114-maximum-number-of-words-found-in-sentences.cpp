@@ -1,7 +1,7 @@
 #include <sstream>
 class Solution {
 public:
-    int mostWordsFound(vector<string>& sentences) {
+    int mostWordsFound(vector<string>& sentences) {  //tc=O(no of char), sc=O(n*k)
         int maxWord = 0;
         
         for (int i = 0; i < sentences.size(); i++) {
