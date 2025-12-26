@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long maximumHappinessSum(vector<int>& happiness, int k) {
+    long long maximumHappinessSum(vector<int>& happiness, int k) {  //tc=O(nLogN), sc=O(1)
         int n = happiness.size();
         sort(happiness.begin(), happiness.end());
 
