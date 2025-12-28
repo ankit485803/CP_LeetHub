@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int bestClosingTime(string customers) {
+    int bestClosingTime(string customers) {  //tc=O(n), sc=O(1)
         int n = customers.size();
 
-        // Step 1: Count total Y's
+        // Step1: Count total Y's
         int penalty = 0;
         for (char c : customers) {
             if (c == 'Y') penalty++;
@@ -12,7 +12,7 @@ public:
         int minPenalty = penalty;
         int bestHour = 0;
 
-        // Step 2: Try closing at each hour j (1 to n)
+        // Step2: Try closing at each hour j (1 to n)
         for (int j = 1; j <= n; j++) {
             if (customers[j - 1] == 'Y') {
                 penalty--;   // no longer closed during a customer hour
