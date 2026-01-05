@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long maxMatrixSum(vector<vector<int>>& matrix) {
+    long long maxMatrixSum(vector<vector<int>>& matrix) {  //tcO(n*n), sc=O(1)
         long long totalSum = 0;  
         long long minAbsVal = LONG_MAX;  
         int negativeCount = 0; 
@@ -9,7 +9,7 @@ public:
             for (int j = 0; j < matrix[i].size(); ++j) {
                 int num = matrix[i][j];
                 totalSum += abs(num);
-                minAbsVal = min(minAbsVal, abs(num));
+                minAbsVal = min(minAbsVal, (long long)abs(num));  // Cast abs(num) to long long
                 if (num < 0) {
                     negativeCount++;
                 }
