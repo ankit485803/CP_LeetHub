@@ -4,6 +4,6 @@ public:
         sort(nums1.begin(), nums1.end());
         sort(nums2.begin(), nums2.end());
 
-        return nums2[0] - nums1[0];   //diff of corrIdx
+        return nums2[0] - nums1[0];   //diff of any crosspondingIdx
     }
 };
