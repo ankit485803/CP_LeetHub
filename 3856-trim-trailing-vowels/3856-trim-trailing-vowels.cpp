@@ -14,7 +14,7 @@ public:
         //trim: cut into pieces
         int i = s.size() - 1;
 
-        while(i >= 0 && isVowel(s[i])) {
+        while(i >= 0 && isVowel(s[i])) {  //loop strats from endStr
             i--;
         }
         return s.substr(0, i+1);
