@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string findDifferentBinaryString(vector<string>& nums) {
+    string findDifferentBinaryString(vector<string>& nums) {  //tc=O(n)=sc
         int n = nums.size();
         string res = "";
 
