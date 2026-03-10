@@ -64,4 +64,20 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ankit485803/CP_LeetHub/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
