@@ -1,30 +1,16 @@
 class Solution {
 public:
-    int bitwiseComplement(int n) {  //tc=O(logN) = sc
+    int bitwiseComplement(int n) {  //tc=O(logN), sc=O(1) using bitManipulation
         if(n == 0) return 1;
 
-        vector<int> binary;
+        int mask = 0;
+        int temp = n;
 
-        // Step 1: decimal -> binary
-        while(n > 0){
-            binary.push_back(n % 2);
-            n /= 2;
+        while(temp > 0){
+            mask = (mask << 1) | 1;
+            temp >>= 1;
         }
 
-        // Step 2: flip bits
-        for(int &bit : binary){
-            bit = !bit;
-        }
-
-        // Step 3: binary -> decimal
-        int ans = 0;
-        int power = 1;
-
-        for(int bit : binary){
-            ans += bit * power;
-            power *= 2;
-        }
-
-        return ans;
+        return n ^ mask;
     }
 };
