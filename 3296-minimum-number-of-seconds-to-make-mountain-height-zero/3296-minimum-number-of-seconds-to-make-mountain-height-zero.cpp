@@ -14,7 +14,7 @@ public:
         return total >= H;
     }
 
-    long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) {
+    long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) { //tc=O(logE) using binarySearch
         
         long long l = 0, r = 1e18;
         long long ans = r;
