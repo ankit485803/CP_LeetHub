@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int largestSubmatrix(vector<vector<int>>& matrix) {  //tc=O(m* nLogN), sc=O(1)
+    int largestSubmatrix(vector<vector<int>>& matrix) {  //tc=O(m* nLogN), sc=O(n)
         int m = matrix.size();
         int n = matrix[0].size();
         int ans = 0;
