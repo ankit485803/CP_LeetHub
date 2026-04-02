@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maximumAmount(vector<vector<int>>& coins) {
+    int maximumAmount(vector<vector<int>>& coins) { //tc=O(m*n*3)=sc
         int m = coins.size(), n = coins[0].size();
         
         const int NEG = -1e9;
