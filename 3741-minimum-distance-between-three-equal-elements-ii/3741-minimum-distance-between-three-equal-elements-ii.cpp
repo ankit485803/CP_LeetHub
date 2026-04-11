@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minimumDistance(vector<int>& nums) {  //tc=O(n), sc=O(1)
+    int minimumDistance(vector<int>& nums) {  //tc=O(n) = sc
         int n = nums.size();
 
         unordered_map<int, vector<int>> mp;
