@@ -22,7 +22,7 @@ public:
         return t[ri][fi] = min(take_current_factory, skip);
     }
 
-    long long minimumTotalDistance(vector<int>& robot, vector<vector<int>>& factory) {
+    long long minimumTotalDistance(vector<int>& robot, vector<vector<int>>& factory) {  //tc=O(m*n)=sc using recussion and memoization
         //step1: sorting
         sort(begin(robot), end(robot));
         sort(begin(factory), end(factory));
