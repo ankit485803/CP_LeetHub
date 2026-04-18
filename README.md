@@ -191,6 +191,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit485803/CP_LeetHub/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankit485803/CP_LeetHub/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
