@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int mirrorDistance(int n) { //sc=O(1)
-        //step1: Rev 
-        int R = 0;
+    int mirrorDistance(int n) {  //sc=O(1)
         int original = n;
-        
-        // ReverseNum - tc=O(n)
-        while (n > 0) {
-            R = R * 10 + (n % 10);  // Get the last digit and add it to R
-            n /= 10;  // Remove the last digit from n
+
+        //step1: reverse the n, tc=O(digits)
+        int revN = 0;
+        while(n > 0) {
+            revN = revN * 10 + (n % 10);
+            n /= 10;
         }
 
-        //step2: calculateDiff
-        int diff = original - R;
-
-        return abs(diff);
+        //step2: calculate abs diff
+        int mirrDist = abs(original - revN);
+        return mirrDist;
     }
 };
