@@ -1,17 +1,12 @@
 class Solution {
 public:
-    int mirrorDistance(int n) {  //sc=O(1)
-        int original = n;
+    int mirrorDistance(int n) {
+        string s = to_string(n);  //convert interger into string  tc=O(log10 N)
+        //rev
+        reverse(begin(s), end(s));
+        
+        int revIntAns = stoi(s);  //reconvert
 
-        //step1: reverse the n, tc=O(digits)
-        int revN = 0;
-        while(n > 0) {
-            revN = revN * 10 + (n % 10);
-            n /= 10;
-        }
-
-        //step2: calculate abs diff
-        int mirrDist = abs(original - revN);
-        return mirrDist;
+        return abs(n - revIntAns);
     }
 };
