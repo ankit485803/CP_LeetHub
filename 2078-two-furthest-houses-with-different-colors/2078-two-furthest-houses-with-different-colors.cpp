@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int maxDistance(vector<int>& colors) {
+    int maxDistance(vector<int>& colors) {  //tcO(n^2) due to nestedLoop, sc=O(1) 
         int n = colors.size();
+        int ans = 0;  //maxDist
 
-        int maxDist = 0;
         for(int i=0; i<n; i++) {
-            for(int j=n-1; j>i; j--) {
+            for(int j=n-1; j>i; j--) {  //when j > i hoga tab tak
                 if(colors[i] != colors[j]) {
-                    int dist = abs(i - j);
-
-                    maxDist = max(dist, maxDist);
+                    ans = max(ans, abs(i - j)); 
                 }
             }
         }
 
-        return maxDist;
+        return ans;
     }
 };
