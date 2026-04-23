@@ -1,14 +1,14 @@
 class Solution {
 public:
     typedef long long ll;
-    vector<ll> distance(vector<int>& nums) {
+    vector<ll> distance(vector<int>& nums) {  //O(N) = tc = sc
         int n = nums.size();
         vector<ll> arr(n, 0);
 
         unordered_map<int, ll> idxSum;  //nums[i] -> sum of 1's
         unordered_map<int, ll> idxCount;  //nums[i] -> freq
 
-        //left to right LHS  -O(N) tc
+        //left to right LHS  
         for(int i = 0; i < n; i++) {
             ll freq = idxCount[nums[i]];
             ll sum = idxSum[nums[i]];
