@@ -38,7 +38,7 @@ public:
 
         long long lo = 1, hi = side;
         int ans = 0;
-        while (lo <= hi) {
+        while (lo <= hi) {  //binarySearch
             long long mid = (lo + hi) / 2;
             if (check(mid)) {
                 lo = mid + 1;
