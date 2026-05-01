@@ -3,7 +3,7 @@ public:
     int maxRotateFunction(vector<int>& nums) {  //tc=O(n), sc=O(1)
         int n = nums.size();
         int sum = 0;
-        int fsum = 0;  //initilize 
+        int fsum = 0;  //initialize 
 
         for(int i=0; i < n; i++) {
             sum += nums[i];
