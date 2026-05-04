@@ -1,16 +1,18 @@
 class Solution {
 public:
-    void rotate(vector<vector<int>>& matrix) {
+    void rotate(vector<vector<int>>& matrix) {  //tc=O(n^2), sc=O(1)
         int n = matrix.size();
-        vector<vector<int>> res(n, vector<int>(n));   //sc=O(n^2)
 
-        for(int i=0; i < n; i++) {  //tc=O(n^2)
-            for(int j=0; j<n; j++) {
-                res[j][n - 1 - i] = matrix[i][j];  //mainLogic lastRow into firstCol
+        //step1: transpose
+        for(int i=0; i<n; i++) {
+            for(int j = i+1; j<n; j++) {
+                swap(matrix[i][j], matrix[j][i]);    //diagonally
             }
         }
 
-        //copyToOriginal
-        matrix = res;
+        //step2: revEachRow to get clockwise 90 deg
+        for(int i=0; i<n; i++) {
+            reverse(matrix[i].begin(), matrix[i].end());
+        }
     }
 };
