@@ -1,8 +1,20 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        int min = *min_element(nums.begin(), nums.end());   //using c++ STL tc=O(logN), sc=O(1)
+    int findMin(vector<int>& nums) {  //tc=O(logN), sc=O(1) using BS
+        int n = nums.size();
 
-        return min;
+        int l = 0, r = n-1;
+
+        while(l < r) {
+            int mid = l + (r - l)/2;
+
+            if(nums[mid] > nums[r]) {
+                l = mid + 1;
+            } else {
+                r = mid;
+            }
+        }
+
+        return nums[r];
     }
 };
