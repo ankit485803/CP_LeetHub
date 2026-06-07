@@ -44,6 +44,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2121-intervals-between-identical-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit485803/CP_LeetHub/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ankit485803/CP_LeetHub/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankit485803/CP_LeetHub/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -206,6 +207,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit485803/CP_LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/ankit485803/CP_LeetHub/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -410,4 +412,12 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3161-block-placement-queries/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
