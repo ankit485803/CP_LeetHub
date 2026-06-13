@@ -88,6 +88,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankit485803/CP_LeetHub/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/ankit485803/CP_LeetHub/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Greedy
@@ -159,6 +160,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3120-count-the-number-of-special-characters-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankit485803/CP_LeetHub/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2751-robot-collisions](https://github.com/ankit485803/CP_LeetHub/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit485803/CP_LeetHub/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankit485803/CP_LeetHub/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
