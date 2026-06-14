@@ -379,6 +379,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0061-rotate-list](https://github.com/ankit485803/CP_LeetHub/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankit485803/CP_LeetHub/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/ankit485803/CP_LeetHub/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -398,6 +399,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/ankit485803/CP_LeetHub/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -418,6 +420,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/ankit485803/CP_LeetHub/tree/main/0061-rotate-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
