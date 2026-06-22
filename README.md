@@ -154,6 +154,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ankit485803/CP_LeetHub/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ankit485803/CP_LeetHub/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit485803/CP_LeetHub/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankit485803/CP_LeetHub/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/ankit485803/CP_LeetHub/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -227,6 +228,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2540-minimum-common-value](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/ankit485803/CP_LeetHub/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -387,6 +389,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Two Pointers
