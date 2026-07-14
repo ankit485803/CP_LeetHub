@@ -78,6 +78,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankit485803/CP_LeetHub/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ankit485803/CP_LeetHub/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/ankit485803/CP_LeetHub/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -226,6 +227,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ankit485803/CP_LeetHub/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankit485803/CP_LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ankit485803/CP_LeetHub/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -389,6 +391,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit485803/CP_LeetHub/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ankit485803/CP_LeetHub/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -509,6 +512,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ankit485803/CP_LeetHub/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
