@@ -313,6 +313,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1559-detect-cycles-in-2d-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankit485803/CP_LeetHub/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -326,6 +327,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3310-remove-methods-from-project/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ankit485803/CP_LeetHub/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -345,6 +347,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankit485803/CP_LeetHub/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
