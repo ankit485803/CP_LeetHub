@@ -18,6 +18,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1306-jump-game-iii/) | Medium |
@@ -220,6 +221,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankit485803/CP_LeetHub/tree/main/0788-rotated-digits/) | Medium |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit485803/CP_LeetHub/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1340-jump-game-v/) | Hard |
@@ -291,6 +293,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit485803/CP_LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
@@ -393,6 +396,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankit485803/CP_LeetHub/tree/main/0788-rotated-digits/) | Medium |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/ankit485803/CP_LeetHub/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
@@ -558,4 +562,16 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
