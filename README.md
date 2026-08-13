@@ -54,6 +54,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit485803/CP_LeetHub/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ankit485803/CP_LeetHub/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankit485803/CP_LeetHub/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -179,6 +180,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ankit485803/CP_LeetHub/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit485803/CP_LeetHub/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankit485803/CP_LeetHub/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -443,6 +445,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/ankit485803/CP_LeetHub/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3161-block-placement-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -593,4 +596,8 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
