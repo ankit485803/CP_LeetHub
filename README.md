@@ -80,6 +80,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankit485803/CP_LeetHub/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3093-longest-common-suffix-queries/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankit485803/CP_LeetHub/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/ankit485803/CP_LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -389,6 +390,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1009-complement-of-base-10-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -401,6 +403,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankit485803/CP_LeetHub/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ankit485803/CP_LeetHub/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -432,6 +435,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit485803/CP_LeetHub/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -563,6 +567,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ankit485803/CP_LeetHub/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -625,4 +630,8 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
