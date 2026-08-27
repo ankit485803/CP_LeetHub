@@ -145,6 +145,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankit485803/CP_LeetHub/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
 ## Recursion
@@ -310,6 +312,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ankit485803/CP_LeetHub/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -518,6 +521,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Two Pointers
@@ -543,6 +547,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankit485803/CP_LeetHub/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
