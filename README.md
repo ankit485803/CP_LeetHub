@@ -54,6 +54,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankit485803/CP_LeetHub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -133,6 +134,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1927-sum-game](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankit485803/CP_LeetHub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/ankit485803/CP_LeetHub/tree/main/2573-find-the-string-with-lcp/) | Hard |
