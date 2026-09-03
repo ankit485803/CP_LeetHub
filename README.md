@@ -123,6 +123,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3838-weighted-word-mapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/ankit485803/CP_LeetHub/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +477,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankit485803/CP_LeetHub/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
