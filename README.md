@@ -125,6 +125,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -359,6 +360,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
