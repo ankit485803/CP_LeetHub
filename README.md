@@ -192,6 +192,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0115-distinct-subsequences](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/ankit485803/CP_LeetHub/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit485803/CP_LeetHub/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -256,6 +257,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0115-distinct-subsequences](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankit485803/CP_LeetHub/tree/main/0788-rotated-digits/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit485803/CP_LeetHub/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
