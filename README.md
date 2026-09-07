@@ -16,6 +16,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit485803/CP_LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -295,6 +296,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1345-jump-game-iv/) | Hard |
@@ -509,6 +511,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankit485803/CP_LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
