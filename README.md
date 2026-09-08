@@ -14,6 +14,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit485803/CP_LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
@@ -255,6 +256,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0115-distinct-subsequences/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankit485803/CP_LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
