@@ -491,6 +491,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ankit485803/CP_LeetHub/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Heap (Priority Queue)
