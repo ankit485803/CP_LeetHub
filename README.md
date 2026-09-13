@@ -20,6 +20,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
+| [0835-image-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
@@ -160,6 +161,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
+| [0835-image-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
