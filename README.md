@@ -135,6 +135,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankit485803/CP_LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit485803/CP_LeetHub/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -202,6 +203,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit485803/CP_LeetHub/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankit485803/CP_LeetHub/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ankit485803/CP_LeetHub/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -316,6 +318,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit485803/CP_LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -534,6 +537,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1340-jump-game-v/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankit485803/CP_LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit485803/CP_LeetHub/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1833-maximum-ice-cream-bars/) | Medium |
