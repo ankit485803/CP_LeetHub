@@ -477,6 +477,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0836-rectangle-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -624,6 +625,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ankit485803/CP_LeetHub/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
