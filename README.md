@@ -43,6 +43,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit485803/CP_LeetHub/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -210,6 +211,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ankit485803/CP_LeetHub/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ankit485803/CP_LeetHub/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1927-sum-game](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1927-sum-game/) | Medium |
@@ -326,6 +328,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit485803/CP_LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
