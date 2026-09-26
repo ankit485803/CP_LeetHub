@@ -56,6 +56,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankit485803/CP_LeetHub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -177,6 +178,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankit485803/CP_LeetHub/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/ankit485803/CP_LeetHub/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -249,6 +251,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ankit485803/CP_LeetHub/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
