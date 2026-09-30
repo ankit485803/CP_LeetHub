@@ -205,6 +205,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0657-robot-return-to-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/ankit485803/CP_LeetHub/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit485803/CP_LeetHub/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -622,6 +623,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -730,6 +732,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
