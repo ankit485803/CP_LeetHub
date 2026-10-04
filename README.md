@@ -217,6 +217,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ankit485803/CP_LeetHub/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -337,6 +338,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit485803/CP_LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -562,6 +564,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1340-jump-game-v/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankit485803/CP_LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit485803/CP_LeetHub/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -587,6 +590,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/2833-furthest-point-from-origin/) | Easy |
