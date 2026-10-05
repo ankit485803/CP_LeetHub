@@ -209,6 +209,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0657-robot-return-to-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ankit485803/CP_LeetHub/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -639,6 +640,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0020-valid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -752,6 +754,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0022-generate-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
