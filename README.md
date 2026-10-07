@@ -207,6 +207,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0022-generate-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ankit485803/CP_LeetHub/tree/main/0796-rotate-string/) | Easy |
@@ -383,6 +384,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankit485803/CP_LeetHub/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -429,6 +431,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1306-jump-game-iii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1345-jump-game-iv/) | Hard |
