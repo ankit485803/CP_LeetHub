@@ -13,6 +13,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
@@ -574,6 +575,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
@@ -616,6 +618,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/ankit485803/CP_LeetHub/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankit485803/CP_LeetHub/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
