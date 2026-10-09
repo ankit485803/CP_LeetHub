@@ -20,6 +20,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
+| [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
@@ -338,6 +339,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1345-jump-game-iv/) | Hard |
@@ -468,6 +470,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -570,6 +573,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1340-jump-game-v/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
