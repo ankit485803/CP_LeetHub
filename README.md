@@ -84,6 +84,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/ankit485803/CP_LeetHub/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ankit485803/CP_LeetHub/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ankit485803/CP_LeetHub/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/ankit485803/CP_LeetHub/tree/main/2906-construct-product-matrix/) | Medium |
@@ -644,6 +645,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankit485803/CP_LeetHub/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
