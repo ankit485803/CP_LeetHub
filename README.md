@@ -144,6 +144,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
@@ -576,6 +577,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3871-count-commas-in-range-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -633,6 +635,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankit485803/CP_LeetHub/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -675,6 +678,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
