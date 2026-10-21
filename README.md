@@ -495,6 +495,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -538,6 +539,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankit485803/CP_LeetHub/tree/main/0788-rotated-digits/) | Medium |
