@@ -16,6 +16,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0015-3sum](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
+| [0136-single-number](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit485803/CP_LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -493,6 +494,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
