@@ -79,6 +79,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit485803/CP_LeetHub/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ankit485803/CP_LeetHub/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ankit485803/CP_LeetHub/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2527-find-xor-beauty-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ankit485803/CP_LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/ankit485803/CP_LeetHub/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -498,6 +499,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ankit485803/CP_LeetHub/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [2527-find-xor-beauty-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2527-find-xor-beauty-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -555,6 +557,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2527-find-xor-beauty-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2527-find-xor-beauty-of-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit485803/CP_LeetHub/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
