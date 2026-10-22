@@ -149,6 +149,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3886-sum-of-sortable-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
