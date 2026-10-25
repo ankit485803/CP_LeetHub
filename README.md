@@ -27,6 +27,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0835-image-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1306-jump-game-iii/) | Medium |
@@ -193,6 +194,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
 | [0835-image-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -449,6 +451,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -462,6 +465,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -476,6 +480,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/ankit485803/CP_LeetHub/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
