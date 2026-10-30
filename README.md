@@ -289,6 +289,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +512,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankit485803/CP_LeetHub/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +618,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -796,6 +799,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
