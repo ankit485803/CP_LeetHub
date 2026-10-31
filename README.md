@@ -133,6 +133,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankit485803/CP_LeetHub/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -227,6 +228,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ankit485803/CP_LeetHub/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
@@ -352,6 +354,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankit485803/CP_LeetHub/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
