@@ -23,6 +23,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0217-contains-duplicate](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -569,6 +570,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0029-divide-two-integers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/ankit485803/CP_LeetHub/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/ankit485803/CP_LeetHub/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0788-rotated-digits](https://github.com/ankit485803/CP_LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
