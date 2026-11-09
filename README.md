@@ -44,6 +44,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankit485803/CP_LeetHub/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankit485803/CP_LeetHub/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ankit485803/CP_LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit485803/CP_LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -306,6 +307,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0657-robot-return-to-origin](https://github.com/ankit485803/CP_LeetHub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ankit485803/CP_LeetHub/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -627,6 +629,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -851,6 +854,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
