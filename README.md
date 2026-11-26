@@ -303,6 +303,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit485803/CP_LeetHub/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1922-count-good-numbers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +596,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1840-maximum-building-height](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1922-count-good-numbers](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit485803/CP_LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
