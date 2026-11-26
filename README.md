@@ -320,6 +320,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2751-robot-collisions](https://github.com/ankit485803/CP_LeetHub/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit485803/CP_LeetHub/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3360-stone-removal-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankit485803/CP_LeetHub/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -610,6 +611,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3360-stone-removal-game/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ankit485803/CP_LeetHub/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
