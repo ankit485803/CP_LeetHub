@@ -162,6 +162,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3903-smallest-stable-index-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankit485803/CP_LeetHub/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +374,7 @@ Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ankit485803/CP_LeetHub/tree/main/C++/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
